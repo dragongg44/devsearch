@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Proposer un site</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 text-gray-800 min-h-screen flex items-center justify-center">
+  <div class="bg-white p-8 rounded-lg shadow-lg w-full max-w-lg">
+    <h1 class="text-2xl font-bold mb-6">Proposer une ressource</h1>
+
+    {% if success %}
+      <div class="mb-4 p-4 bg-green-100 text-green-800 rounded">Merci pour votre proposition !</div>
+    {% endif %}
+
+    <form method="post">
+      <label class="block mb-2 text-sm font-medium">Nom du site</label>
+      <input type="text" name="name" required class="w-full p-2 border rounded mb-4">
+
+      <label class="block mb-2 text-sm font-medium">URL</label>
+      <input type="url" name="url" required class="w-full p-2 border rounded mb-4">
+
+      <label class="block mb-2 text-sm font-medium">Description</label>
+      <textarea name="description" rows="4" required class="w-full p-2 border rounded mb-4"></textarea>
+
+      <button type="submit" class="w-full bg-blue-600 text-white py-2 rounded hover:bg-blue-700">
+        Envoyer
+      </button>
+    </form>
+  </div>
+</body>
+</html>
