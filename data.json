@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Introduction à Flask : Créer une API REST",
+        "description": "Un guide pas à pas pour créer une API avec Flask.",
+        "tags": ["flask", "api", "web", "python", "tutoriel"],
+        "url": "https://exemple.dev/flask-api-rest",
+        "source": "Exemple Dev",
+        "summary": "Apprenez à créer une API REST avec Flask, en utilisant les routes, les méthodes HTTP et la sérialisation JSON."
+    },
+    {
+        "name": "Manipulation de fichiers JSON en Python",
+        "description": "Comment lire et écrire des fichiers JSON facilement.",
+        "tags": ["python", "json", "fichiers", "données", "tutoriel"],
+        "url": "https://exemple.dev/json-python",
+        "source": "Exemple Dev",
+        "summary": "Ce tutoriel vous explique comment lire, modifier et sauvegarder des fichiers JSON avec les bibliothèques standards de Python."
+    },
+    {
+        "name": "Créer un moteur de recherche simple avec Python",
+        "description": "Indexer et rechercher des données textuelles.",
+        "tags": ["python", "moteur", "recherche", "indexation", "projet"],
+        "url": "https://exemple.dev/moteur-recherche",
+        "source": "Exemple Dev",
+        "summary": "Découvrez comment construire un moteur de recherche minimaliste à l'aide de structures de données efficaces en Python."
+    },
+    {
+        "name": "Scraping web avec BeautifulSoup",
+        "description": "Extraire des informations depuis des pages HTML.",
+        "tags": ["scraping", "python", "beautifulsoup", "html", "web"],
+        "url": "https://exemple.dev/web-scraping",
+        "source": "Exemple Dev",
+        "summary": "Utilisez BeautifulSoup pour analyser le contenu HTML, trouver des balises spécifiques et automatiser la collecte d'informations."
+    },
+    {
+        "name": "Créer une interface web avec Flask et Tailwind CSS",
+        "description": "Un mini projet pour construire une UI élégante.",
+        "tags": ["flask", "tailwind", "css", "ui", "python"],
+        "url": "https://exemple.dev/flask-tailwind-ui",
+        "source": "Exemple Dev",
+        "summary": "Construisez une interface moderne en combinant Flask pour le backend et Tailwind CSS pour le design frontend."
+    },
+    {
+        "name": "Les bases de Python pour les débutants",
+        "description": "Un cours interactif pour apprendre les fondements de Python.",
+        "tags": ["python", "débutant", "programmation", "tutoriel"],
+        "url": "https://exemple.dev/bases-python",
+        "source": "Exemple Dev",
+        "summary": "Maîtrisez les variables, les boucles, les conditions et les fonctions en Python."
+    },
+    {
+        "name": "Créer un site web avec Flask et Jinja2",
+        "description": "Un projet pratique pour construire un petit site web dynamique.",
+        "tags": ["flask", "jinja2", "web", "python"],
+        "url": "https://exemple.dev/flask-site-web",
+        "source": "Exemple Dev",
+        "summary": "Apprenez à utiliser les templates Jinja2 avec Flask pour créer des pages dynamiques."
+    },
+    {
+        "name": "Manipulation de fichiers en Python",
+        "description": "Travailler avec les fichiers texte, JSON et CSV en Python.",
+        "tags": ["fichiers", "python", "json", "csv"],
+        "url": "https://exemple.dev/fichiers-python",
+        "source": "Exemple Dev",
+        "summary": "Ouvrir, lire, écrire et analyser des fichiers avec les bibliothèques standards de Python."
+    },
+    {
+        "name": "Scraping web avec BeautifulSoup",
+        "description": "Un guide pour extraire des données de pages HTML.",
+        "tags": ["web scraping", "beautifulsoup", "python", "html"],
+        "url": "https://exemple.dev/scraping-beautifulsoup",
+        "source": "Exemple Dev",
+        "summary": "Découvrez comment récupérer des données sur le web en utilisant BeautifulSoup."
+    },
+    {
+        "name": "Introduction à Pandas pour la data science",
+        "description": "Analyser et manipuler des données avec Pandas.",
+        "tags": ["pandas", "data science", "python", "analyse de données"],
+        "url": "https://exemple.dev/pandas-intro",
+        "source": "Exemple Dev",
+        "summary": "Apprenez les bases de Pandas : DataFrames, filtrage, agrégation et visualisation."
+    },
+    {
+        "name": "Construire une API avec FastAPI",
+        "description": "Créer une API moderne et rapide avec FastAPI.",
+        "tags": ["fastapi", "api", "python", "web"],
+        "url": "https://exemple.dev/fastapi-api",
+        "source": "Exemple Dev",
+        "summary": "Utilisez FastAPI pour développer des APIs robustes avec validation automatique."
+    },
+    {
+        "name": "Tests unitaires avec pytest",
+        "description": "Écrire et exécuter des tests automatisés en Python.",
+        "tags": ["tests", "pytest", "python", "qualité logicielle"],
+        "url": "https://exemple.dev/pytest-tests",
+        "source": "Exemple Dev",
+        "summary": "Découvrez comment tester efficacement votre code avec pytest."
+    },
+    {
+        "name": "Programmation orientée objet en Python",
+        "description": "Comprendre et utiliser les classes, objets, héritage et encapsulation.",
+        "tags": ["oop", "python", "programmation", "classes"],
+        "url": "https://exemple.dev/oop-python",
+        "source": "Exemple Dev",
+        "summary": "Un guide pratique pour structurer votre code Python avec la POO."
+    },
+    {
+        "name": "Créer un bot Telegram avec Python",
+        "description": "Apprenez à développer un bot interactif pour Telegram.",
+        "tags": ["bot", "telegram", "python", "automatisation"],
+        "url": "https://exemple.dev/bot-telegram",
+        "source": "Exemple Dev",
+        "summary": "Utilisez l’API Telegram pour automatiser des interactions avec les utilisateurs."
+    },
+    {
+        "name": "Automatiser des tâches avec Python",
+        "description": "Scripts pratiques pour automatiser des actions répétitives.",
+        "tags": ["automatisation", "scripts", "python", "productivité"],
+        "url": "https://exemple.dev/automatiser-python",
+        "source": "Exemple Dev",
+        "summary": "Apprenez à automatiser des tâches courantes sur votre ordinateur avec Python."
+    }
+]
